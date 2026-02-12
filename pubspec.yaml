@@ -30,6 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+    
 
   flutter_local_notifications: ^17.0.0
 
@@ -67,6 +68,9 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  assets:
+
+      - assets/plans/bible_year_plan.json
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

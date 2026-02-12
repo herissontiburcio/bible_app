@@ -8,6 +8,8 @@ class LocalRepository {
   Box get _history => Hive.box(HiveBoxes.history);
   Box get _notes => Hive.box(HiveBoxes.notes);
 
+  Box get _bibleYear => Hive.box(HiveBoxes.bibleYear);
+
   // ✅ NOVO: box separada para destaques (marca-texto)
   Box get _highlights => Hive.box(HiveBoxes.highlights);
 
@@ -255,5 +257,61 @@ Future<void> removeHighlight({
   final key = _highlightKey(version, book, chapter, verse);
   await _settings.delete("highlight_$key");
 }
+
+  // ---------- Ano Bíblico ----------
+
+  String _bibleYearDaysKey(int year) => 'bibleYear_readDays_$year';
+
+  Set<int> getBibleYearReadDays(int year) {
+    final raw = _bibleYear.get(
+      _bibleYearDaysKey(year),
+      defaultValue: <dynamic>[],
+    ) as List;
+
+    return raw.map((e) => (e as num).toInt()).toSet();
+  }
+
+  Future<void> toggleBibleYearDayRead(int year, int day) async {
+    final set = getBibleYearReadDays(year);
+
+    if (set.contains(day)) {
+      set.remove(day);
+    } else {
+      set.add(day);
+    }
+
+    final list = set.toList()..sort();
+    await _bibleYear.put(_bibleYearDaysKey(year), list);
+  }
+
+  bool isBibleYearDayRead(int year, int day) {
+    return getBibleYearReadDays(year).contains(day);
+  }
+
+    int getBibleYearStreak(int year) {
+    final read = getBibleYearReadDays(year);
+    final now = DateTime.now();
+    final start = DateTime(year, 1, 1);
+
+    int streak = 0;
+
+    // conta dias seguidos (de hoje pra trás) marcados como lidos
+    for (int i = 0; i < 366; i++) {
+      final date = DateTime(now.year, now.month, now.day).subtract(Duration(days: i));
+      if (date.year != year) break;
+
+      final dayNumber = date.difference(start).inDays + 1;
+      if (dayNumber < 1 || dayNumber > 365) break;
+
+      if (read.contains(dayNumber)) {
+        streak++;
+      } else {
+        break;
+      }
+    }
+
+    return streak;
+  }
+
 
 }

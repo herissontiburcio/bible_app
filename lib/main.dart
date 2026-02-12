@@ -20,6 +20,7 @@ Future<void> main() async {
   await Hive.openBox(HiveBoxes.history);
   await Hive.openBox(HiveBoxes.notes);
   await Hive.openBox(HiveBoxes.highlights);
+  await Hive.openBox(HiveBoxes.bibleYear);
 
   await NotificationService.instance.init();
 

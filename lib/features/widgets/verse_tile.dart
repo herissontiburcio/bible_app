@@ -138,7 +138,7 @@ class _VerseTileState extends ConsumerState<VerseTile> {
                           onTap: () async {
                             Navigator.pop(context);
                             final msg =
-                                "${widget.bookName} ${widget.chapter}:${widget.verseNumber} (${widget.version})\n\n${widget.text}\n\n— Enviado pelo Bíblia App";
+                                "${widget.bookName} ${widget.chapter}:${widget.verseNumber} (${widget.version})\n\n${widget.text}\n\n— Enviado pela Bíblia Sagrada";
                             await Share.share(msg);
                           },
                         ),

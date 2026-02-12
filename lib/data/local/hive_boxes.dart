@@ -5,5 +5,7 @@ class HiveBoxes {
   static const history = 'history';
   static const notes = 'notes';
 
+  static const bibleYear = 'bibleYear';
+
   static const highlights = 'highlights'; // ✅ NOVO
 }

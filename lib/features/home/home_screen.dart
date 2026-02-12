@@ -82,12 +82,15 @@ class _HomeScreenState extends ConsumerState<HomeScreen>
 
     final items = [
       ("Livros", "/books", Icons.menu_book),
+      ("Ano Bíblico", "/bible-year", Icons.calendar_month),
       ("Buscar", "/search", Icons.search),
       ("Meus downloads offline", "/offline", Icons.download_for_offline),
       ("Favoritos", "/favorites", Icons.bookmark),
       ("Histórico", "/history", Icons.history),
       ("Notas", "/notes", Icons.edit_note),
       ("Configurações", "/settings", Icons.settings),
+      
+
     ];
 
     return Scaffold(
@@ -190,7 +193,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen>
                               "${v.bookName} ${v.chapter}:${v.verse} • $version";
 
                           final shareMsg =
-                              "📖 Versículo do dia ($version)\n$refText\n\n${v.text}\n\n— Enviado pelo Bíblia App";
+                              "📖 Versículo do dia ($version)\n$refText\n\n${v.text}\n\n— Enviado pela Bíblia Sagrada";
 
                           return Column(
                             crossAxisAlignment: CrossAxisAlignment.start,

@@ -3,9 +3,11 @@ import 'package:bible_app/features/home/home_screen.dart';
 import 'package:go_router/go_router.dart';
 import 'package:flutter/material.dart';
 
+import 'package:bible_app/features/bible_year/bible_year_screen.dart';
+import 'package:bible_app/features/bible_year/bible_year_day_screen.dart';
+
 // Splash / Home
 import 'package:bible_app/features/app/splash_screen.dart';
-
 
 // Bíblia
 import 'package:bible_app/features/bible/books_screen.dart';
@@ -13,7 +15,6 @@ import 'package:bible_app/features/bible/book_chapters_screen.dart';
 import 'package:bible_app/features/bible/chapter_screen.dart';
 
 // Biblioteca
-
 import 'package:bible_app/features/library/favorites_screen.dart';
 import 'package:bible_app/features/library/history_screen.dart';
 import 'package:bible_app/features/library/notes_screen.dart';
@@ -25,7 +26,6 @@ import 'package:bible_app/features/settings/settings_screen.dart';
 final router = GoRouter(
   initialLocation: '/',
   routes: [
-
     /// SPLASH
     GoRoute(
       path: '/',
@@ -44,7 +44,7 @@ final router = GoRouter(
       builder: (_, __) => const BooksScreen(),
     ),
 
-    /// CAPÍTULOS DE UM LIVRO  ✅ (CORRETA E SEGURA)
+    /// CAPÍTULOS DE UM LIVRO
     GoRoute(
       path: '/book/:abbrev/:chapters',
       builder: (context, state) {
@@ -57,7 +57,6 @@ final router = GoRouter(
         );
       },
     ),
-
 
     /// CAPÍTULO (LEITURA)
     GoRoute(
@@ -101,6 +100,21 @@ final router = GoRouter(
     GoRoute(
       path: '/offline',
       builder: (_, __) => const OfflineDownloadsScreen(),
+    ),
+
+    /// ANO BÍBLICO
+    GoRoute(
+      path: '/bible-year',
+      builder: (_, __) => const BibleYearScreen(),
+    ),
+
+    /// ANO BÍBLICO (DIA)
+    GoRoute(
+      path: '/bible-year/day/:day',
+      builder: (_, state) {
+        final day = int.parse(state.pathParameters['day']!);
+        return BibleYearDayScreen(day: day);
+      },
     ),
 
     /// CONFIGURAÇÕES

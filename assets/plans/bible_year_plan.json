@@ -1,0 +1,9995 @@
+{
+  "id": "ano-biblico-365-ot-nt2-pspv",
+  "days": [
+    {
+      "day": 1,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 1,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 1,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 2,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 2,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 3,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 3,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 4,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 4,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 5,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 5,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 6,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 17,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 6,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 18,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 19,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 7,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 28,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 29,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 20,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 7,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 30,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 31,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 21,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 22,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 8,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 32,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 33,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 23,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 8,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 34,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 35,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 24,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 25,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 9,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 36,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 37,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 26,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 9,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 38,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 39,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 27,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 10,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 40,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 41,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 28,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 10,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 42,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 43,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 44,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 11,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 45,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 46,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 11,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 47,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 48,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 12,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "readings": [
+        {
+          "bookIndex": 0,
+          "chapter": 49,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 0,
+          "chapter": 50,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 12,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 13,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 13,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 14,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 14,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 15,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 15,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 16,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 16,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 33,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 17,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 17,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 18,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 36,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 18,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 19,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 38,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 28,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 19,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 29,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 30,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 20,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 31,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 32,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 20,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 33,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 34,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 21,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 42,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 35,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 36,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 37,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 21,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 43,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 38,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 1,
+          "chapter": 39,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 17,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 18,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 22,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 44,
+      "readings": [
+        {
+          "bookIndex": 1,
+          "chapter": 40,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 19,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 22,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 45,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 20,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 23,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 46,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 21,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 22,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 23,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 47,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 23,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 24,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 48,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 24,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 24,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 49,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 25,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 50,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 25,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 51,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 26,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 52,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 26,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 53,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 27,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 54,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 27,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 55,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 28,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 56,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 28,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 57,
+      "readings": [
+        {
+          "bookIndex": 2,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 2,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 29,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 58,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 29,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 59,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 30,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 60,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 17,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 18,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 30,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 61,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 19,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 31,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 62,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 20,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 21,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 31,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 63,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 32,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 64,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 1,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 65,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 33,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 66,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 2,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 67,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 34,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 68,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 3,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 69,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 35,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 70,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 4,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 71,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 28,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 29,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 36,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 72,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 30,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 31,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 5,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 73,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 32,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 33,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 37,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 74,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 34,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 3,
+          "chapter": 35,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 17,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 6,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 75,
+      "readings": [
+        {
+          "bookIndex": 3,
+          "chapter": 36,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 18,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 38,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 76,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 19,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 20,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 7,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 77,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 21,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 39,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 78,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 22,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 8,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 79,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 23,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 24,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 40,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 80,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 25,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 9,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 81,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 26,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 27,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 41,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 82,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 28,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 10,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 83,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 42,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 84,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 11,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 85,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 43,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 86,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 12,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 87,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 44,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 88,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 28,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 13,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 89,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 29,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 30,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 45,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 90,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 31,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 32,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 14,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 91,
+      "readings": [
+        {
+          "bookIndex": 4,
+          "chapter": 33,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 4,
+          "chapter": 34,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 46,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 92,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 15,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 93,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 47,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 94,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 16,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 95,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 48,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 96,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 17,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 97,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 49,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 98,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 18,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 99,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 50,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 100,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 19,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 101,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 51,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 102,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 5,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 20,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 103,
+      "readings": [
+        {
+          "bookIndex": 5,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 6,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 52,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 104,
+      "readings": [
+        {
+          "bookIndex": 6,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 6,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 21,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 105,
+      "readings": [
+        {
+          "bookIndex": 6,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 6,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 53,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 106,
+      "readings": [
+        {
+          "bookIndex": 6,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 6,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 22,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 107,
+      "readings": [
+        {
+          "bookIndex": 6,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 6,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 54,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 108,
+      "readings": [
+        {
+          "bookIndex": 6,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 6,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 23,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 109,
+      "readings": [
+        {
+          "bookIndex": 6,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 6,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 55,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 110,
+      "readings": [
+        {
+          "bookIndex": 6,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 6,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 24,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 111,
+      "readings": [
+        {
+          "bookIndex": 6,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 6,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 56,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 112,
+      "readings": [
+        {
+          "bookIndex": 6,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 6,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 25,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 113,
+      "readings": [
+        {
+          "bookIndex": 6,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 6,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 57,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 114,
+      "readings": [
+        {
+          "bookIndex": 7,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 7,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 26,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 115,
+      "readings": [
+        {
+          "bookIndex": 7,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 7,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 58,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 116,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 27,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 117,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 59,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 118,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 28,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 119,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 60,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 120,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 29,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 121,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 61,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 122,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 30,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 123,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 49,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 49,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 62,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 124,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 49,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 31,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 125,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 49,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 63,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 126,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 50,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 50,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 1,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 127,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 50,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 64,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 128,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 50,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 51,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 2,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 129,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 28,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 29,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 51,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 65,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 130,
+      "readings": [
+        {
+          "bookIndex": 8,
+          "chapter": 30,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 8,
+          "chapter": 31,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 51,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 3,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 131,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 51,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 51,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 66,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 132,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 52,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 4,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 133,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 52,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 52,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 67,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 134,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 5,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 135,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 68,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 136,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 6,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 137,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 69,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 138,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 54,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 7,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 139,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 54,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 70,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 140,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 54,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 54,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 8,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 141,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 55,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 71,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 142,
+      "readings": [
+        {
+          "bookIndex": 9,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 9,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 55,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 55,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 9,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 143,
+      "readings": [
+        {
+          "bookIndex": 10,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 10,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 10,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 56,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 72,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 144,
+      "readings": [
+        {
+          "bookIndex": 10,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 10,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 10,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 145,
+      "readings": [
+        {
+          "bookIndex": 10,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 10,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 73,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 146,
+      "readings": [
+        {
+          "bookIndex": 10,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 10,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 11,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 147,
+      "readings": [
+        {
+          "bookIndex": 10,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 10,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 74,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 148,
+      "readings": [
+        {
+          "bookIndex": 10,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 10,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 12,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 149,
+      "readings": [
+        {
+          "bookIndex": 10,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 10,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 75,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 150,
+      "readings": [
+        {
+          "bookIndex": 10,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 10,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 13,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 151,
+      "readings": [
+        {
+          "bookIndex": 10,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 10,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 76,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 152,
+      "readings": [
+        {
+          "bookIndex": 10,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 10,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 14,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 153,
+      "readings": [
+        {
+          "bookIndex": 10,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 58,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 77,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 154,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 58,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 58,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 15,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 155,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 58,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 78,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 156,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 58,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 59,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 16,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 157,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 59,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 79,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 158,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 59,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 17,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 159,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 59,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 59,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 80,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 160,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 60,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 18,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 161,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 60,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 60,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 81,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 162,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 61,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 19,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 163,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 61,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 61,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 82,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 164,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 11,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 61,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 20,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 165,
+      "readings": [
+        {
+          "bookIndex": 11,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 61,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 83,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 166,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 62,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 63,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 21,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 167,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 64,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 84,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 168,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 22,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 169,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 85,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 170,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 23,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 171,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 86,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 172,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 24,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 173,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 87,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 174,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 25,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 175,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 88,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 176,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 26,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 177,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 89,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 178,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 27,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 179,
+      "readings": [
+        {
+          "bookIndex": 12,
+          "chapter": 28,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 12,
+          "chapter": 29,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 17,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 90,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 180,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 18,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 19,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 28,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 181,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 20,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 91,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 182,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 21,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 22,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 29,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 183,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 92,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 184,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 30,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 185,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 93,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 186,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 31,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 187,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 94,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 188,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 1,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 189,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 95,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 190,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 2,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 191,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 96,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 192,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 3,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 193,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 28,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 29,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 97,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 194,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 30,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 31,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 17,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 4,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 195,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 32,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 33,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 18,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 98,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 196,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 34,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 13,
+          "chapter": 35,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 19,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 20,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 5,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 197,
+      "readings": [
+        {
+          "bookIndex": 13,
+          "chapter": 36,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 14,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 21,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 99,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 198,
+      "readings": [
+        {
+          "bookIndex": 14,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 14,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 22,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 6,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 199,
+      "readings": [
+        {
+          "bookIndex": 14,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 14,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 23,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 24,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 100,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 200,
+      "readings": [
+        {
+          "bookIndex": 14,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 14,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 25,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 7,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 201,
+      "readings": [
+        {
+          "bookIndex": 14,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 14,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 26,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 27,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 101,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 202,
+      "readings": [
+        {
+          "bookIndex": 14,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 15,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 39,
+          "chapter": 28,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 8,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 203,
+      "readings": [
+        {
+          "bookIndex": 15,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 15,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 102,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 204,
+      "readings": [
+        {
+          "bookIndex": 15,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 15,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 15,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 9,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 205,
+      "readings": [
+        {
+          "bookIndex": 15,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 15,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 103,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 206,
+      "readings": [
+        {
+          "bookIndex": 15,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 15,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 10,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 207,
+      "readings": [
+        {
+          "bookIndex": 15,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 15,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 104,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 208,
+      "readings": [
+        {
+          "bookIndex": 15,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 16,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 11,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 209,
+      "readings": [
+        {
+          "bookIndex": 16,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 16,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 105,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 210,
+      "readings": [
+        {
+          "bookIndex": 16,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 16,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 12,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 211,
+      "readings": [
+        {
+          "bookIndex": 16,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 16,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 106,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 212,
+      "readings": [
+        {
+          "bookIndex": 16,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 16,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 13,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 213,
+      "readings": [
+        {
+          "bookIndex": 16,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 40,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 107,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 214,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 14,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 215,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 108,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 216,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 15,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 217,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 109,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 218,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 16,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 219,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 110,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 220,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 17,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 221,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 111,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 222,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 18,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 223,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 112,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 224,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 19,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 225,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 17,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 113,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 226,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 28,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 18,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 20,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 227,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 29,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 30,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 19,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 20,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 114,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 228,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 31,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 32,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 21,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 21,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 229,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 33,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 34,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 22,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 23,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 115,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 230,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 35,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 36,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 41,
+          "chapter": 24,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 22,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 231,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 37,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 38,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 116,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 232,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 39,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 40,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 23,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 233,
+      "readings": [
+        {
+          "bookIndex": 17,
+          "chapter": 41,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 17,
+          "chapter": 42,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 117,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 234,
+      "readings": [
+        {
+          "bookIndex": 20,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 20,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 24,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 235,
+      "readings": [
+        {
+          "bookIndex": 20,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 20,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 118,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 236,
+      "readings": [
+        {
+          "bookIndex": 20,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 20,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 25,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 237,
+      "readings": [
+        {
+          "bookIndex": 20,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 20,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 119,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 238,
+      "readings": [
+        {
+          "bookIndex": 20,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 20,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 26,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 239,
+      "readings": [
+        {
+          "bookIndex": 20,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 20,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 120,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 240,
+      "readings": [
+        {
+          "bookIndex": 21,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 21,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 27,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 241,
+      "readings": [
+        {
+          "bookIndex": 21,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 21,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 121,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 242,
+      "readings": [
+        {
+          "bookIndex": 21,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 21,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 17,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 28,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 243,
+      "readings": [
+        {
+          "bookIndex": 21,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 21,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 18,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 122,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 244,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 19,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 20,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 29,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 245,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 42,
+          "chapter": 21,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 123,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 246,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 30,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 247,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 124,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 248,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 31,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 249,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 125,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 250,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 1,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 251,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 126,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 252,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 2,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 253,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 127,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 254,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 3,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 255,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 128,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 256,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 4,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 257,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 28,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 29,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 17,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 129,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 258,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 30,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 31,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 18,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 19,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 5,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 259,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 32,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 33,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 20,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 130,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 260,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 34,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 35,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 21,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 22,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 6,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 261,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 36,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 37,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 23,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 131,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 262,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 38,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 39,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 24,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 25,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 7,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 263,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 40,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 41,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 26,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 132,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 264,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 42,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 43,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 27,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 8,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 265,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 44,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 45,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 46,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 43,
+          "chapter": 28,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 133,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 266,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 47,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 48,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 9,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 267,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 49,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 50,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 134,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 268,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 51,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 52,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 10,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 269,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 53,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 54,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 135,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 270,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 55,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 56,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 11,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 271,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 57,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 58,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 136,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 272,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 59,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 60,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 12,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 273,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 61,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 62,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 137,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 274,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 63,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 64,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 13,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 275,
+      "readings": [
+        {
+          "bookIndex": 22,
+          "chapter": 65,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 22,
+          "chapter": 66,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 138,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 276,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 44,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 14,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 277,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 139,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 278,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 15,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 279,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 140,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 280,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 16,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 281,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 141,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 282,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 17,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 283,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 142,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 284,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 18,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 285,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 143,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 286,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 19,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 287,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 45,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 144,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 288,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 20,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 289,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 28,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 29,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 145,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 290,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 30,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 31,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 21,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 291,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 32,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 33,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 146,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 292,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 34,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 35,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 22,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 293,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 36,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 37,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 147,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 294,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 38,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 39,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 23,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 295,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 40,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 41,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 148,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 296,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 42,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 43,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 46,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 24,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 297,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 44,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 45,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 149,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 298,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 46,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 47,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 25,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 299,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 48,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 49,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 150,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 300,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 50,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 23,
+          "chapter": 51,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 47,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 26,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 301,
+      "readings": [
+        {
+          "bookIndex": 23,
+          "chapter": 52,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 24,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 1,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 302,
+      "readings": [
+        {
+          "bookIndex": 24,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 24,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 27,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 303,
+      "readings": [
+        {
+          "bookIndex": 24,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 24,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 2,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 304,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 28,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 305,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 48,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 49,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 3,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 306,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 49,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 29,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 307,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 49,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 49,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 4,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 308,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 50,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 30,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 309,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 50,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 50,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 5,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 310,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 15,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 50,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 31,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 311,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 16,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 17,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 51,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 6,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 312,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 18,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 19,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 51,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 51,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 1,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 313,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 20,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 21,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 51,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 7,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 314,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 22,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 23,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 51,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 52,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 2,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 315,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 24,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 25,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 52,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 8,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 316,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 26,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 27,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 52,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 3,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 317,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 28,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 29,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 9,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 318,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 30,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 31,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 4,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 319,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 32,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 33,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 10,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 320,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 34,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 35,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 53,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 5,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 321,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 36,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 37,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 54,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 54,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 11,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 322,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 38,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 39,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 54,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 6,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 323,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 40,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 41,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 54,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 12,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 324,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 42,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 43,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 55,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 55,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 7,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 325,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 44,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 45,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 46,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 55,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 13,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 326,
+      "readings": [
+        {
+          "bookIndex": 25,
+          "chapter": 47,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 25,
+          "chapter": 48,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 56,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 8,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 327,
+      "readings": [
+        {
+          "bookIndex": 26,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 26,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 14,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 328,
+      "readings": [
+        {
+          "bookIndex": 26,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 26,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 9,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 329,
+      "readings": [
+        {
+          "bookIndex": 26,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 26,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 15,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 330,
+      "readings": [
+        {
+          "bookIndex": 26,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 26,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 10,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 331,
+      "readings": [
+        {
+          "bookIndex": 26,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 26,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 16,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 332,
+      "readings": [
+        {
+          "bookIndex": 26,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 26,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 11,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 333,
+      "readings": [
+        {
+          "bookIndex": 27,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 27,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 17,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 334,
+      "readings": [
+        {
+          "bookIndex": 27,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 27,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 12,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 335,
+      "readings": [
+        {
+          "bookIndex": 27,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 27,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 57,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 58,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 18,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 336,
+      "readings": [
+        {
+          "bookIndex": 27,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 27,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 58,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 13,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 337,
+      "readings": [
+        {
+          "bookIndex": 27,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 27,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 58,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 19,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 338,
+      "readings": [
+        {
+          "bookIndex": 27,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 27,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 58,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 58,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 14,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 339,
+      "readings": [
+        {
+          "bookIndex": 27,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 27,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 59,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 20,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 340,
+      "readings": [
+        {
+          "bookIndex": 28,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 28,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 59,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 59,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 15,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 341,
+      "readings": [
+        {
+          "bookIndex": 28,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 29,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 59,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 21,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 342,
+      "readings": [
+        {
+          "bookIndex": 29,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 29,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 59,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 60,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 16,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 343,
+      "readings": [
+        {
+          "bookIndex": 29,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 29,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 60,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 22,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 344,
+      "readings": [
+        {
+          "bookIndex": 29,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 29,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 60,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 17,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 345,
+      "readings": [
+        {
+          "bookIndex": 29,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 29,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 61,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 61,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 23,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 346,
+      "readings": [
+        {
+          "bookIndex": 30,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 31,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 31,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 61,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 18,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 347,
+      "readings": [
+        {
+          "bookIndex": 31,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 31,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 61,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 61,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 24,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 348,
+      "readings": [
+        {
+          "bookIndex": 32,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 32,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 62,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 19,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 349,
+      "readings": [
+        {
+          "bookIndex": 32,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 32,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 63,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 25,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 350,
+      "readings": [
+        {
+          "bookIndex": 32,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 32,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 64,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 1,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 20,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 351,
+      "readings": [
+        {
+          "bookIndex": 32,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 33,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 2,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 26,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 352,
+      "readings": [
+        {
+          "bookIndex": 33,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 33,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 3,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 4,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 21,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 353,
+      "readings": [
+        {
+          "bookIndex": 34,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 34,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 5,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 27,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 354,
+      "readings": [
+        {
+          "bookIndex": 34,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 35,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 6,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 7,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 22,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 355,
+      "readings": [
+        {
+          "bookIndex": 35,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 35,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 8,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 28,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 356,
+      "readings": [
+        {
+          "bookIndex": 36,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 36,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 9,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 23,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 357,
+      "readings": [
+        {
+          "bookIndex": 37,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 37,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 10,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 11,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 29,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 358,
+      "readings": [
+        {
+          "bookIndex": 37,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 37,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 12,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 24,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 359,
+      "readings": [
+        {
+          "bookIndex": 37,
+          "chapter": 5,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 37,
+          "chapter": 6,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 13,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 14,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 30,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 360,
+      "readings": [
+        {
+          "bookIndex": 37,
+          "chapter": 7,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 37,
+          "chapter": 8,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 15,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 25,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 361,
+      "readings": [
+        {
+          "bookIndex": 37,
+          "chapter": 9,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 37,
+          "chapter": 10,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 16,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 17,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 31,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 362,
+      "readings": [
+        {
+          "bookIndex": 37,
+          "chapter": 11,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 37,
+          "chapter": 12,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 18,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 26,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 363,
+      "readings": [
+        {
+          "bookIndex": 37,
+          "chapter": 13,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 37,
+          "chapter": 14,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 19,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 32,
+          "stream": "PS"
+        }
+      ]
+    },
+    {
+      "day": 364,
+      "readings": [
+        {
+          "bookIndex": 38,
+          "chapter": 1,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 38,
+          "chapter": 2,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 20,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 21,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 19,
+          "chapter": 27,
+          "stream": "PV"
+        }
+      ]
+    },
+    {
+      "day": 365,
+      "readings": [
+        {
+          "bookIndex": 38,
+          "chapter": 3,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 38,
+          "chapter": 4,
+          "stream": "OT"
+        },
+        {
+          "bookIndex": 65,
+          "chapter": 22,
+          "stream": "NT"
+        },
+        {
+          "bookIndex": 18,
+          "chapter": 33,
+          "stream": "PS"
+        }
+      ]
+    }
+  ]
+}

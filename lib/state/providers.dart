@@ -10,9 +10,14 @@ import '../data/models/bible_version.dart';
 import '../data/models/chapter.dart';
 import '../data/models/search_result.dart';
 
+import '../data/models/bible_year_plan.dart';
+import '../data/api/bible_year_service.dart';
+
 final localRepoProvider = Provider((ref) => LocalRepository());
 final apiClientProvider = Provider((ref) => ABibliaClient());
-final bibleRepoProvider = Provider((ref) => BibleRepository(ref.read(apiClientProvider)));
+final bibleRepoProvider = Provider(
+  (ref) => BibleRepository(ref.read(apiClientProvider)),
+);
 
 final versionsProvider = FutureProvider<List<BibleVersion>>((ref) async {
   return ref.read(bibleRepoProvider).getVersions();
@@ -58,6 +63,19 @@ final randomVerseProvider = FutureProvider<RandomVerse>((ref) async {
   return ref.read(bibleRepoProvider).getRandomVerse(version);
 });
 
+final bibleYearPlanProvider = FutureProvider<BibleYearPlan>((ref) async {
+  return BibleYearService.loadPlan();
+});
+
+final bibleYearReadDaysProvider = Provider<Set<int>>((ref) {
+  final year = DateTime.now().year;
+  return ref.watch(localRepoProvider).getBibleYearReadDays(year);
+});
+
+final bibleYearStreakProvider = Provider<int>((ref) {
+  final year = DateTime.now().year;
+  return ref.watch(localRepoProvider).getBibleYearStreak(year);
+});
 
 class ChapterArgs {
   final String version;
@@ -77,30 +95,43 @@ class ChapterArgs {
   int get hashCode => version.hashCode ^ bookAbbrev.hashCode ^ chapter.hashCode;
 }
 
-final chapterProvider = FutureProvider.family<Chapter, ChapterArgs>((ref, args) async {
+final chapterProvider = FutureProvider.family<Chapter, ChapterArgs>((
+  ref,
+  args,
+) async {
   final repo = ref.read(bibleRepoProvider);
 
   // tenta online
   try {
-    final ch = await repo.getChapter(args.version, args.bookAbbrev, args.chapter);
+    final ch = await repo.getChapter(
+      args.version,
+      args.bookAbbrev,
+      args.chapter,
+    );
 
     // salva cache (não pinned automaticamente)
-    await ref.read(localRepoProvider).saveChapterOffline(
+    await ref
+        .read(localRepoProvider)
+        .saveChapterOffline(
           version: args.version,
           book: args.bookAbbrev,
           chapter: args.chapter,
           chapterData: ch.toJson(),
-          pinned: ref.read(localRepoProvider).isChapterPinned(
-            version: args.version,
-            book: args.bookAbbrev,
-            chapter: args.chapter,
-          ),
+          pinned: ref
+              .read(localRepoProvider)
+              .isChapterPinned(
+                version: args.version,
+                book: args.bookAbbrev,
+                chapter: args.chapter,
+              ),
         );
 
     return ch;
   } catch (_) {
     // fallback offline
-    final off = ref.read(localRepoProvider).getOfflineChapter(
+    final off = ref
+        .read(localRepoProvider)
+        .getOfflineChapter(
           version: args.version,
           book: args.bookAbbrev,
           chapter: args.chapter,
@@ -110,7 +141,10 @@ final chapterProvider = FutureProvider.family<Chapter, ChapterArgs>((ref, args) 
   }
 });
 
-final searchProvider = FutureProvider.family<List<SearchVerseResult>, String>((ref, q) async {
+final searchProvider = FutureProvider.family<List<SearchVerseResult>, String>((
+  ref,
+  q,
+) async {
   final version = ref.read(selectedVersionProvider);
   return ref.read(bibleRepoProvider).search(version, q);
 });
@@ -121,7 +155,10 @@ class DownloadBookArgs {
   DownloadBookArgs(this.version, this.book);
 }
 
-final downloadChapterProvider = FutureProvider.family<void, ChapterArgs>((ref, args) async {
+final downloadChapterProvider = FutureProvider.family<void, ChapterArgs>((
+  ref,
+  args,
+) async {
   final repo = ref.read(bibleRepoProvider);
   final local = ref.read(localRepoProvider);
 
@@ -135,7 +172,10 @@ final downloadChapterProvider = FutureProvider.family<void, ChapterArgs>((ref, a
   );
 });
 
-final downloadBookProvider = FutureProvider.family<void, DownloadBookArgs>((ref, args) async {
+final downloadBookProvider = FutureProvider.family<void, DownloadBookArgs>((
+  ref,
+  args,
+) async {
   final repo = ref.read(bibleRepoProvider);
   final local = ref.read(localRepoProvider);
 
