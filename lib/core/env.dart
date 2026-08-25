@@ -3,11 +3,13 @@ class Env {
 
   static const String abibliaToken = String.fromEnvironment('ABIBLIA_TOKEN');
 
+  static bool get hasToken => abibliaToken.isNotEmpty;
+
   static void validate() {
-    if (abibliaToken.isEmpty) {
-      throw Exception(
-        "ABIBLIA_TOKEN nao definido. Rode com --dart-define-from-file=env.json "
-        "ou --dart-define=ABIBLIA_TOKEN=SEU_TOKEN",
+    if (!hasToken) {
+      // ignore: avoid_print
+      print(
+        "[Env] ABIBLIA_TOKEN não definido. O aplicativo operará em modo Híbrido/Offline com os dados locais integrados.",
       );
     }
   }

@@ -16,7 +16,10 @@ import '../data/api/bible_year_service.dart';
 final localRepoProvider = Provider((ref) => LocalRepository());
 final apiClientProvider = Provider((ref) => ABibliaClient());
 final bibleRepoProvider = Provider(
-  (ref) => BibleRepository(ref.read(apiClientProvider)),
+  (ref) => BibleRepository(
+    client: ref.read(apiClientProvider),
+    localRepo: ref.read(localRepoProvider),
+  ),
 );
 
 final versionsProvider = FutureProvider<List<BibleVersion>>((ref) async {
@@ -100,45 +103,7 @@ final chapterProvider = FutureProvider.family<Chapter, ChapterArgs>((
   args,
 ) async {
   final repo = ref.read(bibleRepoProvider);
-
-  // tenta online
-  try {
-    final ch = await repo.getChapter(
-      args.version,
-      args.bookAbbrev,
-      args.chapter,
-    );
-
-    // salva cache (não pinned automaticamente)
-    await ref
-        .read(localRepoProvider)
-        .saveChapterOffline(
-          version: args.version,
-          book: args.bookAbbrev,
-          chapter: args.chapter,
-          chapterData: ch.toJson(),
-          pinned: ref
-              .read(localRepoProvider)
-              .isChapterPinned(
-                version: args.version,
-                book: args.bookAbbrev,
-                chapter: args.chapter,
-              ),
-        );
-
-    return ch;
-  } catch (_) {
-    // fallback offline
-    final off = ref
-        .read(localRepoProvider)
-        .getOfflineChapter(
-          version: args.version,
-          book: args.bookAbbrev,
-          chapter: args.chapter,
-        );
-    if (off == null) rethrow;
-    return Chapter.fromJson((off['data'] as Map).cast<String, dynamic>());
-  }
+  return repo.getChapter(args.version, args.bookAbbrev, args.chapter);
 });
 
 final searchProvider = FutureProvider.family<List<SearchVerseResult>, String>((

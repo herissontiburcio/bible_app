@@ -12,7 +12,7 @@ class NotificationService {
   tzdata.initializeTimeZones();
   tz.setLocalLocation(tz.local);
 
-  const android = AndroidInitializationSettings('@mipmap/ic_launcher');
+  const android = AndroidInitializationSettings('@mipmap/launcher_icon');
   const initSettings = InitializationSettings(android: android);
 
   await _plugin.initialize(initSettings);

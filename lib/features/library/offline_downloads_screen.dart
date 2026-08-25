@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
+
 import '../../state/providers.dart';
 
 class OfflineDownloadsScreen extends ConsumerStatefulWidget {
   const OfflineDownloadsScreen({super.key});
 
   @override
-  ConsumerState<OfflineDownloadsScreen> createState() =>
-      _OfflineDownloadsScreenState();
+  ConsumerState<OfflineDownloadsScreen> createState() => _OfflineDownloadsScreenState();
 }
 
 class _OfflineDownloadsScreenState extends ConsumerState<OfflineDownloadsScreen> {
@@ -17,99 +17,168 @@ class _OfflineDownloadsScreenState extends ConsumerState<OfflineDownloadsScreen>
     final local = ref.read(localRepoProvider);
     final downloads = local.getOfflineDownloads();
     final booksAsync = ref.watch(booksProvider);
+    final theme = Theme.of(context);
+    final isDark = theme.brightness == Brightness.dark;
 
     return booksAsync.when(
-      loading: () =>
-          const Scaffold(body: Center(child: CircularProgressIndicator())),
-      error: (e, _) =>
-          Scaffold(body: Center(child: Text("Erro ao carregar livros: $e"))),
+      loading: () => const Scaffold(body: Center(child: CircularProgressIndicator())),
+      error: (e, _) => Scaffold(body: Center(child: Text("Erro ao carregar livros: $e"))),
       data: (books) {
-        // ✅ AQUI: bookMap normalizado (abbrev minúsculo)
         final bookMap = {
           for (final b in books) b.abbrev.toString().trim().toLowerCase(): b.name
         };
 
         return Scaffold(
           appBar: AppBar(
-            title: const Text("Meus downloads offline"),
+            title: const Text("Downloads Offline"),
             actions: [
               IconButton(
-                tooltip: "Limpar cache (mantém baixados/pinned)",
-                icon: const Icon(Icons.cleaning_services_outlined),
+                tooltip: "Limpar cache temporário",
+                icon: const Icon(Icons.cleaning_services_rounded),
                 onPressed: () async {
                   await local.clearCacheKeepPinned();
                   if (!mounted) return;
                   ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(
-                      content: Text("Cache limpo (mantendo pinned)."),
-                    ),
+                    const SnackBar(content: Text("Cache temporário limpo com sucesso.")),
                   );
                   setState(() {});
                 },
               ),
             ],
           ),
-          body: downloads.isEmpty
-              ? const Center(child: Text("Nenhum capítulo baixado ainda."))
-              : ListView.separated(
-                  itemCount: downloads.length,
-                  separatorBuilder: (_, __) => const Divider(height: 1),
-                  itemBuilder: (_, i) {
-                    final d = downloads[i];
-                    final v = (d['version'] ?? '').toString();
-                    final bookAbbrev = (d['book'] ?? '').toString();
-                    final ch = (d['chapter'] ?? 0) as int;
-
-                    // ✅ AQUI: normaliza a chave pra achar o nome completo
-                    final bookKey = bookAbbrev.trim().toLowerCase();
-                    final bookName = bookMap[bookKey] ?? bookAbbrev;
-
-                    return ListTile(
-                      leading: const Icon(Icons.push_pin),
-                      title: Text("$bookName $ch • $v"),
-                      subtitle: Text(
-                        "Salvo em: ${(d['savedAt'] ?? '').toString()}",
+          body: Column(
+            children: [
+              // Banner informativo sobre a base offline nativa
+              Container(
+                width: double.infinity,
+                margin: const EdgeInsets.fromLTRB(16, 8, 16, 12),
+                padding: const EdgeInsets.all(14),
+                decoration: BoxDecoration(
+                  color: Colors.teal.withValues(alpha: isDark ? 0.18 : 0.08),
+                  borderRadius: BorderRadius.circular(14),
+                  border: Border.all(color: Colors.teal.withValues(alpha: 0.25)),
+                ),
+                child: Row(
+                  children: [
+                    const Icon(Icons.offline_pin_rounded, color: Colors.teal, size: 24),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: Text(
+                        "As versões NVI e ACF completas já vêm embutidas no seu app para uso 100% offline.",
+                        style: TextStyle(
+                          fontSize: 13,
+                          fontWeight: FontWeight.w600,
+                          color: isDark ? Colors.teal.shade200 : Colors.teal.shade900,
+                        ),
                       ),
-                      trailing: IconButton(
-                        tooltip: "Remover download",
-                        icon: const Icon(Icons.delete_outline),
-                        onPressed: () async {
-                          final ok = await showDialog<bool>(
-                            context: context,
-                            builder: (_) => AlertDialog(
-                              title: const Text("Remover download?"),
-                              content: Text("Remover $bookName $ch do offline?"),
-                              actions: [
-                                TextButton(
-                                  onPressed: () => Navigator.pop(context, false),
-                                  child: const Text("Cancelar"),
+                    ),
+                  ],
+                ),
+              ),
+
+              Expanded(
+                child: downloads.isEmpty
+                    ? Center(
+                        child: Column(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(Icons.download_done_rounded, size: 56, color: Colors.grey.shade400),
+                            const SizedBox(height: 12),
+                            const Text(
+                              "Nenhum capítulo fixado manualmente.",
+                              style: TextStyle(fontWeight: FontWeight.w700, fontSize: 16),
+                            ),
+                            const SizedBox(height: 6),
+                            Text(
+                              "Capítulos baixados individualmente aparecerão listados aqui.",
+                              style: TextStyle(
+                                fontSize: 13,
+                                color: theme.textTheme.bodyMedium?.color?.withValues(alpha: 0.6),
+                              ),
+                            ),
+                          ],
+                        ),
+                      )
+                    : ListView.builder(
+                        physics: const BouncingScrollPhysics(),
+                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+                        itemCount: downloads.length,
+                        itemBuilder: (context, i) {
+                          final d = downloads[i];
+                          final v = (d['version'] ?? '').toString();
+                          final bookAbbrev = (d['book'] ?? '').toString();
+                          final ch = (d['chapter'] ?? 0) as int;
+
+                          final bookKey = bookAbbrev.trim().toLowerCase();
+                          final bookName = bookMap[bookKey] ?? bookAbbrev;
+
+                          return Card(
+                            margin: const EdgeInsets.only(bottom: 10),
+                            child: ListTile(
+                              contentPadding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
+                              leading: Container(
+                                padding: const EdgeInsets.all(8),
+                                decoration: BoxDecoration(
+                                  color: Colors.teal.withValues(alpha: isDark ? 0.25 : 0.12),
+                                  shape: BoxShape.circle,
                                 ),
-                                TextButton(
-                                  onPressed: () => Navigator.pop(context, true),
-                                  child: const Text("Remover"),
+                                child: const Icon(Icons.bookmark_added_rounded, color: Colors.teal, size: 20),
+                              ),
+                              title: Text(
+                                "$bookName $ch • ${v.toUpperCase()}",
+                                style: const TextStyle(fontWeight: FontWeight.w700, fontSize: 14.5),
+                              ),
+                              subtitle: Text(
+                                "Disponível offline",
+                                style: TextStyle(
+                                  fontSize: 12.5,
+                                  color: theme.textTheme.bodySmall?.color?.withValues(alpha: 0.7),
                                 ),
-                              ],
+                              ),
+                              trailing: IconButton(
+                                tooltip: "Remover download",
+                                icon: const Icon(Icons.delete_outline_rounded, size: 20),
+                                onPressed: () async {
+                                  final ok = await showDialog<bool>(
+                                    context: context,
+                                    builder: (dialogCtx) => AlertDialog(
+                                      title: const Text("Remover download?"),
+                                      content: Text("Remover $bookName $ch dos itens salvos?"),
+                                      actions: [
+                                        TextButton(
+                                          onPressed: () => Navigator.pop(dialogCtx, false),
+                                          child: const Text("Cancelar"),
+                                        ),
+                                        FilledButton(
+                                          onPressed: () => Navigator.pop(dialogCtx, true),
+                                          child: const Text("Remover"),
+                                        ),
+                                      ],
+                                    ),
+                                  );
+
+                                  if (ok == true) {
+                                    await local.deleteOfflineChapter(
+                                      version: v,
+                                      book: bookAbbrev,
+                                      chapter: ch,
+                                    );
+                                    if (!mounted) return;
+                                    setState(() {});
+                                    ScaffoldMessenger.of(context).showSnackBar(
+                                      const SnackBar(content: Text("Capítulo removido do armazenamento.")),
+                                    );
+                                  }
+                                },
+                              ),
+                              onTap: () => context.push("/chapter/$bookAbbrev/$ch"),
                             ),
                           );
-
-                          if (ok == true) {
-                            await local.deleteOfflineChapter(
-                              version: v,
-                              book: bookAbbrev,
-                              chapter: ch,
-                            );
-                            if (!mounted) return;
-                            setState(() {});
-                            ScaffoldMessenger.of(context).showSnackBar(
-                              const SnackBar(content: Text("Download removido.")),
-                            );
-                          }
                         },
                       ),
-                      onTap: () => context.push("/chapter/$bookAbbrev/$ch"),
-                    );
-                  },
-                ),
+              ),
+            ],
+          ),
         );
       },
     );

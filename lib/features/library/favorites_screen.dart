@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
+
 import '../../state/providers.dart';
 
 class FavoritesScreen extends ConsumerStatefulWidget {
@@ -26,17 +27,17 @@ class _FavoritesScreenState extends ConsumerState<FavoritesScreen> {
     final local = ref.read(localRepoProvider);
     final favs = local.getFavorites();
     final booksAsync = ref.watch(booksProvider);
+    final theme = Theme.of(context);
+    final isDark = theme.brightness == Brightness.dark;
 
     return booksAsync.when(
       loading: () => const Scaffold(body: Center(child: CircularProgressIndicator())),
       error: (e, _) => Scaffold(body: Center(child: Text("Erro ao carregar livros: $e"))),
       data: (books) {
-        // ✅ mapa normalizado: abbrev -> nome
         final bookMap = <String, String>{
           for (final b in books) b.abbrev.toString().trim().toLowerCase(): b.name
         };
 
-        // dropdown de livros (nomes completos)
         final booksSet = <String>{"Todos"};
         for (final f in favs) {
           final abbrevRaw = (f["book"] ?? "").toString();
@@ -67,41 +68,59 @@ class _FavoritesScreenState extends ConsumerState<FavoritesScreen> {
         }).toList();
 
         return Scaffold(
-          appBar: AppBar(title: const Text("Favoritos")),
+          appBar: AppBar(title: const Text("Versículos Favoritos")),
           body: favs.isEmpty
-              ? const Center(child: Text("Nenhum favorito ainda."))
+              ? Center(
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Icon(Icons.bookmark_border_rounded, size: 56, color: Colors.grey.shade400),
+                      const SizedBox(height: 12),
+                      const Text(
+                        "Nenhum versículo favoritado ainda.",
+                        style: TextStyle(fontWeight: FontWeight.w700, fontSize: 16),
+                      ),
+                      const SizedBox(height: 6),
+                      Text(
+                        "Toque em qualquer versículo durante a leitura para salvá-lo.",
+                        style: TextStyle(
+                          fontSize: 13,
+                          color: theme.textTheme.bodyMedium?.color?.withValues(alpha: 0.6),
+                        ),
+                      ),
+                    ],
+                  ),
+                )
               : Column(
                   children: [
                     Padding(
-                      padding: const EdgeInsets.all(12),
+                      padding: const EdgeInsets.fromLTRB(16, 8, 16, 12),
                       child: Column(
                         children: [
                           TextField(
                             controller: _searchCtrl,
                             decoration: InputDecoration(
-                              hintText: "Buscar no favorito (texto ou referência)",
-                              prefixIcon: const Icon(Icons.search),
+                              hintText: "Buscar nos favoritos...",
+                              prefixIcon: const Icon(Icons.search_rounded),
                               suffixIcon: _query.isEmpty
                                   ? null
                                   : IconButton(
                                       tooltip: "Limpar",
-                                      icon: const Icon(Icons.clear),
+                                      icon: const Icon(Icons.clear_rounded, size: 18),
                                       onPressed: () {
                                         _searchCtrl.clear();
                                         setState(() => _query = "");
                                       },
                                     ),
-                              border: const OutlineInputBorder(),
+                              isDense: true,
                             ),
                             onChanged: (v) => setState(() => _query = v),
                           ),
                           const SizedBox(height: 10),
                           Row(
                             children: [
-                              const Icon(Icons.filter_list),
+                              const Icon(Icons.filter_list_rounded, size: 20, color: Colors.grey),
                               const SizedBox(width: 8),
-                              const Text("Livro:"),
-                              const SizedBox(width: 10),
                               Expanded(
                                 child: DropdownButtonFormField<String>(
                                   value: bookList.contains(_selectedBook) ? _selectedBook : "Todos",
@@ -109,30 +128,30 @@ class _FavoritesScreenState extends ConsumerState<FavoritesScreen> {
                                       .map((b) => DropdownMenuItem(value: b, child: Text(b)))
                                       .toList(),
                                   onChanged: (v) => setState(() => _selectedBook = v ?? "Todos"),
-                                  decoration: const InputDecoration(isDense: true, border: OutlineInputBorder()),
+                                  decoration: const InputDecoration(
+                                    isDense: true,
+                                    contentPadding: EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+                                  ),
                                 ),
                               ),
                             ],
                           ),
-                          const SizedBox(height: 8),
-                          Align(
-                            alignment: Alignment.centerLeft,
-                            child: Text(
-                              "Mostrando ${filtered.length} de ${favs.length}",
-                              style: Theme.of(context).textTheme.bodySmall,
-                            ),
-                          ),
                         ],
                       ),
                     ),
-                    const Divider(height: 1),
                     Expanded(
                       child: filtered.isEmpty
-                          ? const Center(child: Text("Nenhum favorito encontrado com esses filtros."))
-                          : ListView.separated(
+                          ? const Center(
+                              child: Text(
+                                "Nenhum favorito encontrado com esses filtros.",
+                                style: TextStyle(color: Colors.grey),
+                              ),
+                            )
+                          : ListView.builder(
+                              physics: const BouncingScrollPhysics(),
+                              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
                               itemCount: filtered.length,
-                              separatorBuilder: (_, __) => const Divider(height: 1),
-                              itemBuilder: (_, i) {
+                              itemBuilder: (context, i) {
                                 final f = filtered[i];
                                 final version = (f["version"] ?? "").toString();
                                 final abbrevRaw = (f["book"] ?? "").toString();
@@ -143,25 +162,47 @@ class _FavoritesScreenState extends ConsumerState<FavoritesScreen> {
                                 final verse = (f["verse"] ?? 0) as int;
                                 final text = (f["text"] ?? "").toString();
 
-                                return ListTile(
-                                  leading: const Icon(Icons.bookmark),
-                                  title: Text("$bookName $chapter:$verse • $version"),
-                                  subtitle: Text(text, maxLines: 3, overflow: TextOverflow.ellipsis),
-                                  trailing: IconButton(
-                                    tooltip: "Remover",
-                                    icon: const Icon(Icons.delete_outline),
-                                    onPressed: () async {
-                                      await local.toggleFavorite(
-                                        version: version,
-                                        book: abbrevRaw, // mantém exatamente como foi salvo
-                                        chapter: chapter,
-                                        verse: verse,
-                                        text: text,
-                                      );
-                                      if (mounted) setState(() {});
-                                    },
+                                return Card(
+                                  margin: const EdgeInsets.only(bottom: 10),
+                                  child: ListTile(
+                                    contentPadding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
+                                    leading: Container(
+                                      padding: const EdgeInsets.all(8),
+                                      decoration: BoxDecoration(
+                                        color: Colors.red.withValues(alpha: isDark ? 0.25 : 0.12),
+                                        shape: BoxShape.circle,
+                                      ),
+                                      child: const Icon(Icons.bookmark_rounded, color: Colors.red, size: 20),
+                                    ),
+                                    title: Text(
+                                      "$bookName $chapter:$verse • ${version.toUpperCase()}",
+                                      style: const TextStyle(fontWeight: FontWeight.w700, fontSize: 14.5),
+                                    ),
+                                    subtitle: Padding(
+                                      padding: const EdgeInsets.only(top: 4),
+                                      child: Text(
+                                        text,
+                                        maxLines: 3,
+                                        overflow: TextOverflow.ellipsis,
+                                        style: const TextStyle(height: 1.4),
+                                      ),
+                                    ),
+                                    trailing: IconButton(
+                                      tooltip: "Remover dos favoritos",
+                                      icon: const Icon(Icons.delete_outline_rounded, size: 20),
+                                      onPressed: () async {
+                                        await local.toggleFavorite(
+                                          version: version,
+                                          book: abbrevRaw,
+                                          chapter: chapter,
+                                          verse: verse,
+                                          text: text,
+                                        );
+                                        if (mounted) setState(() {});
+                                      },
+                                    ),
+                                    onTap: () => context.push("/chapter/$abbrevRaw/$chapter"),
                                   ),
-                                  onTap: () => context.push("/chapter/$abbrevRaw/$chapter"),
                                 );
                               },
                             ),

@@ -13,6 +13,7 @@ import 'package:bible_app/features/app/splash_screen.dart';
 import 'package:bible_app/features/bible/books_screen.dart';
 import 'package:bible_app/features/bible/book_chapters_screen.dart';
 import 'package:bible_app/features/bible/chapter_screen.dart';
+import 'package:bible_app/features/bible/versions_screen.dart';
 
 // Biblioteca
 import 'package:bible_app/features/library/favorites_screen.dart';
@@ -121,6 +122,12 @@ final router = GoRouter(
     GoRoute(
       path: '/settings',
       builder: (_, __) => const SettingsScreen(),
+    ),
+
+    /// VERSÕES DA BÍBLIA
+    GoRoute(
+      path: '/versions',
+      builder: (_, __) => const VersionsScreen(),
     ),
   ],
 );
